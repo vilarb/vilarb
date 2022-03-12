@@ -49,7 +49,7 @@
 &nbsp;
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="start">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/vilarb/"><img src="https://img.shields.io/badge/-Blaz%20Vilar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:blaz.vilar12@gmail.com"><img src="https://img.shields.io/badge/-blaz.vilar12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
