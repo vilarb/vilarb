@@ -8,7 +8,6 @@
 🎓 &nbsp;I have a bachelors degree in Electrical engineering (Automation and robotics) from the University of Ljubljana.\
 📚 &nbsp;I'm currently finishing my masters in International bussiness at SEB University of Ljubljana.\
 ✉️ &nbsp;You can send me an email at blaz.vilar12@gmail.com! \
-📄 &nbsp;If you want to find out more, take a look at my [Résumé](https://www.adityavsingh.com/resume.html)!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
