@@ -6,9 +6,10 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have a bachelors degree in Electrical engineering (Automation and robotics) from the University of Ljubljana.\
-📚 &nbsp;I'm currently working at <a href="https://new.pju.si"> PJU d.o.o.</a> as a full stack developer\
+📚 &nbsp;I'm currently working at <a href="https://giannabellucci.com"> Gianna Bellucci</a> as a full stack developer\
 ✉️ &nbsp;You can send me an email at blaz.vilar12@gmail.com! \
-✨ &nbsp;Check out my <a href="https://gitlab.com/BlazVilar">Gitlab</a> account, i'm also quite active there.
+✨ &nbsp;Check out my <a href="https://gitlab.com/BlazVilar">Gitlab</a> account, i'm also quite active there. \
+🍝 &nbsp;Building <a href="https://dinespot.si">Dinespot</a> a hub for restaurant management. 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
